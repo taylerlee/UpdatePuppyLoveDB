@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>JDBC Info</comment>
+<entry key="dbserverip">127.0.0.1</entry>
+<entry key="dbserverport">1433</entry>
+<entry key="dbusername">sa</entry>
+<entry key="dbpassword">sqlserver</entry>
+<entry key="database">PuppyLove</entry>
+<entry key="driver">com.microsoft.sqlserver.jdbc.SQLServerDriver</entry>
+<entry key="imagedir">D:\\JAVA\\Projects_workspace\\PuppyLove\\WebContent\\img2\\</entry>
+</properties>
